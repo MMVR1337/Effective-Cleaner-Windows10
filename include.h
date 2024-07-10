@@ -1,0 +1,11 @@
+#pragma once
+#include <windows.h>
+#include <shlobj.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <filesystem>
+#include <memory>
+#include <stdexcept>
+#include <chrono>
+#include <thread>
